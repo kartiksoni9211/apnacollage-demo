@@ -1,3 +1,3 @@
 # apnacollage-demo
-this is my first git repository
-author - kartik soni
+This is my first git repository
+Author - Kartik soni
